@@ -151,7 +151,7 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 즉, 네이버 지도 점유율은 앱 자체 만족도보다는  
 플랫폼 생태계의 연동성(Lock-in Effect)에서 비롯된다.
 
-[자료 5 https://chatgpt.com/c/691a8f56-9944-8333-886c-bdc598571b8c]
+[자료 5 [https://chatgpt.com/c/691a8f56-9944-8333-886c-bdc598571b8c](https://news.nate.com/view/20251027n11917?utm_source=chatgpt.com)]
 
 ---
 
