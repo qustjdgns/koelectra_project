@@ -97,7 +97,7 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 리뷰 감성(Label) 분석 결과만 보면 카카오맵이 시장을 주도해야 하지만,  
 실제 시장 데이터는 정반대의 결과를 보여주며, 역설이 발생한다.
 
-[사례http://sisa-n.com/View.aspx?No=3478721#:~:text=%EC%A7%80%EB%8F%84%20%EC%95%B1%EC%9D%B4%20%EB%8B%A8%EC%88%9C%20%EA%B8%B8%EC%B0%BE%EA%B8%B0%EB%A5%BC%20%EB%84%98%EC%96%B4%20%EC%A2%85%ED%95%A9%20%EC%83%9D%ED%99%9C%20%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C,%EC%B5%9C%EA%B7%BC%EC%97%90%EB%8A%94%20%27MY%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%27%20%ED%81%B4%EB%A6%BD%EA%B3%BC%20%EC%97%B0%EB%8F%99%ED%95%B4%20%EB%8F%99%EC%98%81%EC%83%81%20%EB%A6%AC%EB%B7%B0%20%EA%B8%B0%EB%8A%A5%EB%8F%84%20%EC%B6%94%EA%B0%80%ED%96%88%EB%8B%A4.]
+[사례https://tinyurl.com/26yddssd]
 ---
 
 ### 3-1. [검증 2] 실제 시장 점유율
