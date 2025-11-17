@@ -140,9 +140,6 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 <br>
 
 [자료2 https://www.etnews.com/20180611000332?utm_source=chatgpt.com]
-
-<br>
-
 [자료3 https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com]
 
 <br>
