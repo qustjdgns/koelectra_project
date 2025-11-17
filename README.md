@@ -97,7 +97,7 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 리뷰 감성(Label) 분석 결과만 보면 카카오맵이 시장을 주도해야 하지만,  
 실제 시장 데이터는 정반대의 결과를 보여주며, 역설이 발생한다.
 
-[자료1 https://tinyurl.com/26yddssd]
+
 ---
 
 ### 3-1. [검증 2] 실제 시장 점유율
@@ -110,6 +110,8 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 | 카카오맵 | 31.2% |
 
 즉, 리뷰 만족도(카카오맵 우세)와 시장 점유율(네이버 우세)은 일치하지 않는다.
+
+[자료1 https://tinyurl.com/26yddssd]
 
 ---
 
@@ -134,7 +136,8 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 
 ### final_naver_reviews_labeled.csv (2018-05-14)
 - "업데이트했더니 디자인이 보는걸 방해해요 전이 훨씬 좋은 것같아요" (1점)
-
+[자료2 https://www.etnews.com/20180611000332?utm_source=chatgpt.com]
+[자료3 https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com]
 ---
 
 ### 3-3. 사례 2: "승자독식 생태계 (Lock-in Effect)"
