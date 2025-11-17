@@ -47,7 +47,7 @@
 | label | Integer | 긍/부정 라벨 (0: 부정, 1: 긍정) | O (Target) |
 
 `label`은 `score`를 기준으로 사전에 처리된 값이다.  
-(예: 1~2점 -> 0, 4~5점 -> 1)
+(0~2점 =>0, 4~5점 =>1)
 
 KoELECTRA 모델은 이 중 document를 입력(Input)으로 받아 label을 예측(Target)하도록 학습된다.
 
