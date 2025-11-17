@@ -151,6 +151,7 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 즉, 네이버 지도 점유율은 앱 자체 만족도보다는  
 플랫폼 생태계의 연동성(Lock-in Effect)에서 비롯된다.
 
+[자료 5 https://chatgpt.com/c/691a8f56-9944-8333-886c-bdc598571b8c]
 ---
 
 ### 3-4. 사례 3: "다른 타겟, 다른 기능"
@@ -160,7 +161,7 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 | 주요 사용자층 | 20~30대, 대중교통·도보 이용자 | 전 연령대, 차량 이용자 |
 | 강점 | 깔끔한 UI/UX, 도보 및 자전거 길찾기 | 풍부한 데이터베이스, 네비게이션, 검색 연동 |
 
-[자료 4 https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com]
+[자료 6 https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com]
 
 ---
 
