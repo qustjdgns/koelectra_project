@@ -141,8 +141,6 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 <br>
 [자료3 https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com]
 
-<br>
-
 ---
 
 ### 3-3. 사례 2: "승자독식 생태계 (Lock-in Effect)"
