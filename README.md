@@ -166,13 +166,14 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 
 #### 네이버 지도 모델 (koelectra_small_naver)
 - Train Accuracy: 4 에포크에 걸쳐 꾸준히 상승하나, 과적합 경향을 보임  
-- Validation Accuracy: 2~3 에포크 이후 약 85%에서 수렴  
+- Validation Accuracy: 2~3 에포크 이후 약 85%에서 수렴
+- 
+<img width="1600" height="600" alt="report_04_naver_training" src="https://github.com/user-attachments/assets/793281ed-cb11-4688-beb9-6f671ebcf369" />
 
 #### 카카오맵 모델 (koelectra_small_kakao)
 - Train/Validation Accuracy가 함께 상승하며 안정적으로 수렴  
 - Validation Accuracy: 약 90~91% 수준
   
-<img width="1600" height="600" alt="report_04_naver_training" src="https://github.com/user-attachments/assets/793281ed-cb11-4688-beb9-6f671ebcf369" />
 
 <img width="1600" height="600" alt="report_05_kakao_training" src="https://github.com/user-attachments/assets/47da7af0-be08-434d-a0b6-51551b700f78" />
 
