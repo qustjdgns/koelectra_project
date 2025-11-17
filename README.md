@@ -1,6 +1,6 @@
 # KoELECTRA 활용 지도 앱 리뷰 감성 분석  
 
-<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/a6c12d5a-3b8d-4239-b433-fabbeffa9e74" />
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/a6c12d5a-3b8d-4239-b433-fabbeffa9e74" />
 
 
 ---
