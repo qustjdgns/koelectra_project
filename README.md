@@ -59,6 +59,8 @@ KoELECTRA 모델은 이 중 document를 입력(Input)으로 받아 label을 예�
 
 - 카카오맵: 긍정 리뷰(Label 1)가 69.4%로, 사용자 만족도가 매우 높게 나타났다.  
 - 네이버 지도: 긍정 리뷰(Label 1)가 43.3%에 불과하며, 부정 리뷰(Label 0)가 56.7%로 과반을 차지했다.
+  
+<img width="1000" height="500" alt="report_01_label_distribution" src="https://github.com/user-attachments/assets/1ee737da-5065-4e37-8850-9e06d8a5c618" />
 
 ---
 
@@ -72,6 +74,8 @@ KoELECTRA 모델은 이 중 document를 입력(Input)으로 받아 label을 예�
 네이버 지도 사용자는 불만족 시(1점) 리뷰를 작성하는 경향이 강하게 나타났으며,  
 카카오맵은 만족 사용자 중심의 긍정 리뷰가 많았다.
 
+<img width="1000" height="500" alt="report_02_score_distribution" src="https://github.com/user-attachments/assets/cbfcac53-74ff-4519-91e1-540e6bdf8e17" />
+
 ---
 
 ### 2-4. 리뷰 길이(Length) 분포
@@ -84,7 +88,9 @@ KoELECTRA 모델은 이 중 document를 입력(Input)으로 받아 label을 예�
 결론적으로 두 플랫폼 모두 대부분의 리뷰가 짧은 단문 형태이며,  
 KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 
----
+<img width="1000" height="500" alt="report_03_length_distribution" src="https://github.com/user-attachments/assets/1c2f04f6-1af7-46b7-84ae-c3eb91029fd2" />
+
+--
 
 ## 3. "역설"의 발견: 실제 시장 점유율 분석
 
@@ -164,7 +170,11 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 
 #### 카카오맵 모델 (koelectra_small_kakao)
 - Train/Validation Accuracy가 함께 상승하며 안정적으로 수렴  
-- Validation Accuracy: 약 90~91% 수준  
+- Validation Accuracy: 약 90~91% 수준
+  
+<img width="1600" height="600" alt="report_04_naver_training" src="https://github.com/user-attachments/assets/793281ed-cb11-4688-beb9-6f671ebcf369" />
+
+<img width="1600" height="600" alt="report_05_kakao_training" src="https://github.com/user-attachments/assets/47da7af0-be08-434d-a0b6-51551b700f78" />
 
 ---
 
