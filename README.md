@@ -136,8 +136,6 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 
 ### final_naver_reviews_labeled.csv (2018-05-14)
 - "업데이트했더니 디자인이 보는걸 방해해요 전이 훨씬 좋은 것같아요" (1점)
-  
-<br>
 
 [자료2 https://www.etnews.com/20180611000332?utm_source=chatgpt.com]
 <br>
