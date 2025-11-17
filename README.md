@@ -97,7 +97,7 @@ KoELECTRA 모델의 `max_length=256` 설정은 충분히 여유로운 값이다.
 리뷰 감성(Label) 분석 결과만 보면 카카오맵이 시장을 주도해야 하지만,  
 실제 시장 데이터는 정반대의 결과를 보여주며, 역설이 발생한다.
 
-[사례https://tinyurl.com/26yddssd]
+[자료1 https://tinyurl.com/26yddssd]
 ---
 
 ### 3-1. [검증 2] 실제 시장 점유율
