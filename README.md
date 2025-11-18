@@ -24,7 +24,7 @@
 
 ## 2. 데이터 분석 및 시각화
 
-가설을 검증하기 위해 다음 두 데이터셋을 분석하였다.
+가설을 검증하기 위해 다음 두 데이터셋을 전처리 후 분석하였다.
 
 - final_naver_reviews_labeled.csv  
 - final_kakao_reviews_labeled.csv  
@@ -45,7 +45,7 @@
 | label | Integer | 긍/부정 라벨 (0: 부정, 1: 긍정) | O (Target) |
 
 `label`은 `score`를 기준으로 사전에 처리된 값이다.  
-(0점 부터 2점 =>0, 4점 부터 5점 =>1)
+(0점 부터 2점 =>0, 3점은 직접 분류, 4점 부터 5점 =>1)
 
 KoELECTRA 모델은 이 중 document를 입력(Input)으로 받아 label을 예측(Target)하도록 학습된다.
 
