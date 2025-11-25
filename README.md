@@ -135,9 +135,9 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 즉, 네이버 지도 점유율은 앱 자체 만족도보다는  
 플랫폼 생태계의 연동성(Lock-in Effect)에서 비롯된다.
 
-[자료 1 기사보기](https://news.nate.com/view/20251027n11917?utm_source=chatgpt.com)
+[자료 2 기사보기](https://news.nate.com/view/20251027n11917?utm_source=chatgpt.com)
 <br>
-[자료 2 기사보기](https://biz.newdaily.co.kr/site/data/html/2022/07/27/2022072700062.html)
+[자료 3 기사보기](https://biz.newdaily.co.kr/site/data/html/2022/07/27/2022072700062.html)
 
 
 
@@ -159,7 +159,7 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 
 
 
-[자료 3 기사보기](https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com)
+[자료 4 기사보기](https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com)
 
 ---
 
@@ -176,7 +176,7 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 #### 실제 리뷰 사례 (가설 3 근거)
 - "업데이트했더니 디자인이 보는걸 방해해요 전이 훨씬 좋은 것 같아요" (★ 1점)
   
-[자료 4 기사보기](https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com)
+[자료 5 기사보기](https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com)
 
 
 ---
