@@ -135,7 +135,7 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 즉, 네이버 지도 점유율은 앱 자체 만족도보다는  
 플랫폼 생태계의 연동성(Lock-in Effect)에서 비롯된다.
 
-[자료 1 기사보기](https://chatgpt.com/c/691a8f56-9944-8333-886c-bdc598571b8c)(https://news.nate.com/view/20251027n11917?utm_source=chatgpt.com)
+[자료 1 기사보기](https://news.nate.com/view/20251027n11917?utm_source=chatgpt.com)
 <br>
 [자료 2 기사보기](https://biz.newdaily.co.kr/site/data/html/2022/07/27/2022072700062.html)
 
