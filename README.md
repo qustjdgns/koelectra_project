@@ -176,7 +176,7 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 #### 실제 리뷰 사례 (가설 3 근거)
 - "업데이트했더니 디자인이 보는걸 방해해요 전이 훨씬 좋은 것 같아요" (★ 1점)
   
-[자료 5 기사보기](https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com)
+
 
 
 ---
