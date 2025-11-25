@@ -157,9 +157,9 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 - "네이버지도 똥망 업뎃후 왔습니다..." (4점)  
 - "네x이버 개똥 패치로 넘어왔습니다... 길찾기는 카카오맵이 훨씬 낫습니다" (5점)
 
-[자료 3 기사보기](https://www.etnews.com/20180611000332?utm_source=chatgpt.com)
-<br>
-[자료 4 기사보기](https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com)
+
+
+[자료 3 기사보기](https://news.nate.com/view/20180524n25233?utm_source=chatgpt.com)
 
 ---
 
@@ -176,7 +176,7 @@ KoELECTRA 기반 긍/부정 리뷰에 대해 **토픽 모델링(Text Mining)**�
 #### 실제 리뷰 사례 (가설 3 근거)
 - "업데이트했더니 디자인이 보는걸 방해해요 전이 훨씬 좋은 것 같아요" (★ 1점)
   
-[자료 5 기사보기](https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com)
+[자료 4 기사보기](https://www.wiseapp.co.kr/insight/detail/809/2025-transportation-app-trend?utm_source=chatgpt.com)
 
 
 ---
